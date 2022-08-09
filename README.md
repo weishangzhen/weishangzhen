@@ -13,8 +13,6 @@
      
 <strong>👋 Hi, I’m @weishangzhen </strong>
 
-<strong> THG Graduate Software Engineer </strong>
-
 </pre> 
 
 ![Shangzhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weishangzhen&show_icons=true&theme=radical&count_private=true)
