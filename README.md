@@ -11,17 +11,14 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>👋 Hi, I’m @weishangzhen </strong>
 
 </pre> 
-
-![Shangzhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=weishangzhen&show_icons=true&theme=radical&count_private=true)
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/weishangzhen/count.svg" />
 
 <h1 align="center">Hi 👋, I'm ShangzhenWei</h1>
-<h3 align="center">A passionate frontend developer from CHINA.</h3>
+<h3 align="center">A passionate java developer from CHINA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weishangzhen&label=Profile%20views&color=0e75b6&style=flat" alt="weishangzhen" /> </p>
 
