@@ -14,18 +14,15 @@
 
 </pre> 
 <h1 align="center">Hi 👋, I'm ShangzhenWei</h1>
-<h3 align="center">A passionate java developer from CHINA.</h3>
+<h3 align="center">A Passionate Java Developer From CHINA.</h3>
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/weishangzhen/count.svg" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=weishangzhen&label=Profile%20views&color=0e75b6&style=flat" alt="weishangzhen" /> </p>
 
 - 🔭 I’m currently working on [THG](VOYAGER)
 
 - 📫 How to reach me **weishangzhen@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
